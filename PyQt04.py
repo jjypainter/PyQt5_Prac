@@ -17,7 +17,7 @@ class MyApp(QWidget):
         
     def initUI(self):
         self.setWindowTitle('Icon')
-        self.setWindowIcon(QIcon('iconloop.png'))
+        self.setWindowIcon(QIcon('rizon.png'))
         self.setGeometry(300, 300, 300, 200)
         self.show()
         
