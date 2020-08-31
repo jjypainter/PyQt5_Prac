@@ -27,7 +27,7 @@ class myApp(QWidget):
         btn2.move(80, 53)
         
         
-        self.setWindowTitle('Absolute Positioning')
+        self.setWindowTitle('절대적 배치')
         self.setGeometry(300, 300, 400, 200)
         self.show()
         
